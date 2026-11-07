@@ -4,7 +4,7 @@ A modern, responsive, and user-friendly calculator built using **HTML5, CSS3, Bo
 
 ## 🚀 Live Demo
 
-[View Live Calculator](YOUR_LIVE_DEMO_LINK)
+[View Live Calculator](https://muzammil-developer.github.io/Calculator/)
 
 ## ✨ Features
 
